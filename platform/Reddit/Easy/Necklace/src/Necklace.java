@@ -1,4 +1,4 @@
-public class Main {
+public class Necklace {
 
     public static void main(String[] args) {
         String left = "abcd";
