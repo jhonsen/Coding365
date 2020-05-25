@@ -7,11 +7,11 @@
 
 #### Overview of Directory 
 1. Read explanations in notebooks, e.g.,  
-    - ./[Words.ipynb](./src/Words.ipynb)  
+    - ./[Words.ipynb](./Words.ipynb)  
 2. Run programs on terminal, e.g.,  
     - Using **Python**
       - `$> python ./src/words.py`
     - Using **Java**
       - `$> javac ./src/Words.java`
-      - `$> java ./src/words`
+      - `$> java -cp ./src/ words`
       
