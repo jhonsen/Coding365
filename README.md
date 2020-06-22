@@ -7,6 +7,6 @@ Solutions are written in Python, Java, and Scala.
 
 
 1. HackerRank practice
-2. [Codewars katas](./platform/codewars)
-3. [Leetcode exercises](./platform/leetcode)
-4. [r/dailyprogrammer](./platform/reddit)
+2. [Codewars katas](./platform/Codewars)
+3. [Leetcode exercises](./platform/Leetcode)
+4. [r/dailyprogrammer](./platform/Reddit)
