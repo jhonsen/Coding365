@@ -34,12 +34,12 @@ class TestProperInput(object):
         assert exception_info.match("'int' object is not iterable")
     
     def test_KeyError_input_type(self):       
-        integer_input_cases = [('abc',), # tuple
+        error_input_cases = [('abc',), # tuple
                                {'abc'},  # set
                                ['abc'],  # list
                               ]
         
-        for case in integer_input_cases:
+        for case in error_input_cases:
             with pytest.raises(KeyError) as exception_info:
                 replace_alphabets(case)
             assert exception_info.match("abc")
