@@ -7,7 +7,7 @@
 
 #### Overview of Directory 
 1. Read explanations in notebooks, e.g.,  
-    - ./leetcode_notebooks/[Anagram.ipynb](./Anagram.ipynb)  
+    - ./leetcode_notebooks/[Anagram.ipynb](./leetcode_notebooks/Anagram.ipynb)  
 2. Run programs on terminal, e.g.,  
     - Using **Python**
       - `$> python ./src/words.py`
