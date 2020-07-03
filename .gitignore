@@ -8,4 +8,4 @@ __pycache__/
 
 # JDT specific
 */.class/*
-.class
+*.class
