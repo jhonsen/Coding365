@@ -27,7 +27,7 @@ def main():
     user_input = input("Enter a list of integers, separated by commas: ")
     numbers = convert_to_list(user_input)
     output = find_max_profit(numbers)
-    print("The best time to sell stock is on day: ", output)
+    print("The group and the people related ids are: ", output)
     
 if __name__=='__main__':
     main()
