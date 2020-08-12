@@ -6,7 +6,7 @@ Solutions are written in Python, Java, and Scala.
   ![logo](./images/python_java_scala.png )
 
 
-1. HackerRank practice
+1. [HackerRank](./platform/hackerrank)
 2. [Codewars katas](./platform/Codewars)
 3. [Leetcode exercises](./platform/Leetcode)
 4. [r/dailyprogrammer](./platform/Reddit)
