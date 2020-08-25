@@ -7,7 +7,7 @@
 
 #### Overview of Directory 
 1. Read explanations in notebooks, e.g.,  
-    - ./[Introduction_LinkedList.ipynb](./Introduction_LinkedList.ipynb)  
+    - ./[Introduction_LinkedList.ipynb](./gfg_notebooks/Introduction_LinkedList.ipynb)  
 2.     
       
 
