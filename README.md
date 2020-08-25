@@ -10,3 +10,4 @@ Solutions are written in Python, Java, and Scala.
 2. [Codewars katas](./platform/Codewars)
 3. [Leetcode exercises](./platform/Leetcode)
 4. [r/dailyprogrammer](./platform/Reddit)
+5. [GeekForGeek](./platform/geekforgeek)
