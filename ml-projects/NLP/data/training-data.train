@@ -1,0 +1,1 @@
+The first sentence is terminated by a period<SPLIT>. We will want to be able to identify tokens that are separated by something other than whitespace<SPLIT>. This can include commas<SPLIT>, numbers such as 100.204<SPLIT>, and other punctuation characters including colons:<SPLIT>.
