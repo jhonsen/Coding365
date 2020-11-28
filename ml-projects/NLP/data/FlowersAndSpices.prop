@@ -1,0 +1,8 @@
+# Features
+useClassFeature=true
+1.usePrefixSuffixNGrams=true
+1.maxNGramLeng=4
+1.minNGramLeng=1
+# Training input
+trainFileFlowersAndSpices.train
+testFileFlowersAndSpices.test
