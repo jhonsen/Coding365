@@ -11,6 +11,7 @@ Solutions are written in Python, Java, and Scala.
 3. [Leetcode exercises](./platform/Leetcode)
 4. [r/dailyprogrammer](./platform/Reddit)
 5. [GeekForGeek](./platform/geekforgeek)
+6. [Cracking the Coding Interview](./platform/cci)
 
 Tool Exploration Resources
 1. [NLP](./ml-projects/NLP)
